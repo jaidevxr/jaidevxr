@@ -1,22 +1,21 @@
-<p align="center">
-  <h1>Hi, I'm Jaidev</h1>
-</p>
+<h1 align="center">Hi, I'm Jaidev</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DevEnjoysMath/DevEnjoysMath/refs/heads/main/coding.gif" alt="Coding GIF" width="400"/>
 </p>
-<p align="center">
-  <h1>🎓 Computer Science student @ BBDU </h1>
-</p>
+
+<h3 align="center">🎓 Computer Science Student @ BBDU</h3>
+
 ---
-🚀 **About Me**
+
+## 🚀 About Me
+
 💡 Passionate about solving real-world problems with AI  
-🌐 I believe in creating value, not just writing code.
+🌐 I believe in creating value, not just writing code  
 
 ---
 
 ## 🛠️ Tech Stack
-
 
 <p align="center">
   <a href="https://www.java.com/" target="_blank">
@@ -93,6 +92,7 @@
 </p>
 
 ---
+
 ## 📫 Let's Connect
 
 <p align="center">
@@ -105,9 +105,8 @@
   </a>
   &nbsp;
   <a href="https://www.instagram.com/jaidev.xx" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
 ---
