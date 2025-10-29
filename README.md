@@ -1,10 +1,15 @@
-# Hi, I'm Jaidev
+<p align="center">
+  <h1>Hi, I'm Jaidev</h1>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DevEnjoysMath/DevEnjoysMath/refs/heads/main/coding.gif" alt="Coding GIF" width="400"/>
 </p>
-
-🎓 **Computer Science student @ BBDU**  
+<p align="center">
+  <h1>🎓 Computer Science student @ BBDU </h1>
+</p>
+---
+🚀 **About Me**
 💡 Passionate about solving real-world problems with AI  
 🌐 I believe in creating value, not just writing code.
 
@@ -81,20 +86,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaidevxr&theme=radical" alt="GitHub Profile Summary" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaidevxr&theme=radical&no-bg=true&no-frame=true&column=4" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaidevxr&theme=react-dark" alt="Contribution Graph" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/DevEnjoysMath/DevEnjoysMath/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
-</p>
-
 ---
 
 <p align="center">
@@ -113,9 +104,10 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://github.com/jaidevxr" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <a href="https://www.instagram.com/jaidev.xx" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
 </p>
 
 ---
