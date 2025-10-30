@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Typing" width="400"/>
+
 <h3 align="center">Hi, I'm Jaidev</h3>
 
 <p align="center">
