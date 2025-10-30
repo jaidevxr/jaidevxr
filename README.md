@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jaidev</h1>
+<h3 align="center">Hi, I'm Jaidev</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DevEnjoysMath/DevEnjoysMath/refs/heads/main/coding.gif" alt="Coding GIF" width="400"/>
