@@ -9,6 +9,7 @@
 <h3 align="center">🎓 Computer Science Student @ BBDU</h3>
 
 ---
+![Metrics](https://raw.githubusercontent.com/lowlighter/lowlighter/main/github-metrics.svg)
 
 ## 🚀 About Me
 
