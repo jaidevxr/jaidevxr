@@ -1,8 +1,9 @@
 <h3 align="center">Hi, I'm Jaidev</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DevEnjoysMath/DevEnjoysMath/refs/heads/main/coding.gif" alt="Coding GIF" width="400"/>
+  <img src="https://raw.githubusercontent.com/jaidevxr/jaidevxr/main/coding.gif" alt="Coding GIF" width="400"/>
 </p>
+
 
 <h3 align="center">🎓 Computer Science Student @ BBDU</h3>
 
