@@ -79,7 +79,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jaidevxr/jaidevxr/output/dist/github-snake.svg dist/github-snake-dark.svg" alt="GitHub Snake Animation" />
+  <img src="https://raw.githubusercontent.com/jaidevxr/jaidevxr/output/github-snake.svg dist/github-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
 
 
