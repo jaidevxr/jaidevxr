@@ -9,8 +9,6 @@
 <h3 align="center">🎓 Computer Science Student @ BBDU</h3>
 
 ---
-![Metrics](https://raw.githubusercontent.com/lowlighter/lowlighter/main/github-metrics.svg)
-
 ## 🚀 About Me
 
 💡 Passionate about solving real-world problems with AI  
@@ -65,6 +63,8 @@
 ---
 
 ## 📊 GitHub Stats
+![Jaidev's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaidevxr&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaidevxr&layout=compact&theme=tokyonight)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaidevxr&show_icons=true&theme=radical" alt="GitHub Stats" />
