@@ -79,8 +79,9 @@
 ---
 
 <p align="center">
-  <img src=["https://github.com/jaidevxr/jaidevxr/blob/output/github-snake-dark.svg"](https://github.com/jaidevxr/jaidevxr/blob/output/github-snake.svg%20dist/github-snake-dark.svg) alt="GitHub Snake Animation" />
+  <img src="https://raw.githubusercontent.com/jaidevxr/jaidevxr/output/dist/github-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
+
 
 ---
 
