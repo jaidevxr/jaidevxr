@@ -80,12 +80,19 @@
   ---
 
   ## 📊 GitHub Stats
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+  <div align="center">
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jaidevxr&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaidevxr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </p>
+<a href="https://github.com/jaidevxr">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jaidevxr&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaidevxr&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+</a>
+
+<br/>
+
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=jaidevxr&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+
+</div>
 
   ---
 
@@ -93,22 +100,29 @@
     <img src="https://raw.githubusercontent.com/jaidevxr/jaidevxr/output/github-snake.svg dist/github-snake-dark.svg" alt="GitHub Snake Animation" /> </p>
 
   ---
+## 📈 Contribution Graph
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaidevxr&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" alt="Activity Graph" width="100%"/>
+</div>
+
+---
   ## 📫 Let's Connect
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/jaidev-yadav-28349029a" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    &nbsp;
-    <a href="mailto:jaiy9956@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    &nbsp;
-    <a href="https://www.instagram.com/jaidev.xx" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
-  </p>
+<div align="center">
+  <a href="mailto:jaiy9956@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jaidev-yadav-28349029a">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/jaidev.xx">
+    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/jaidevxr">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
+  </a>
+</div>
 
   ---
 
