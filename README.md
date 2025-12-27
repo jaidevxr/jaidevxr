@@ -1,106 +1,88 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jaidevxr/jaidevxr/main/coding.gif" width="200" style="border-radius: 50%;" alt="coding" />
+  
+  <br/>
+  <br/>
 
-<h3 align="center">Hi, I'm Jaidev</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jaidev;Building+AI+Solutions;Creating+Digital+Value" alt="Typing SVG" />
+  </a>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jaidevxr/jaidevxr/main/coding.gif" alt="Coding GIF" width="400"/>
-</p>
+  <p style="font-size: 1.2rem;">
+    <b>Computer Science Student @ BBDU</b>
+  </p>
+  
+  <p>
+   <i>"Code is a tool. Business is the engine. Vision is the fuel."</i>
+  </p>
 
-
-<h3 align="center">🎓 Computer Science Student @ BBDU</h3>
-
----
-## 🚀 About Me
-
-💡 Passionate about solving real-world problems with AI  
-🌐 I believe in creating value, not just writing code  
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  </a>
-  <a href="https://vercel.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  </a>
-  <a href="https://openai.com/" target="_blank">
-    <img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  </a>
-  <a href="https://gemini.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Gemini-%230066FF.svg?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
-  </a>
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-  </a>
-  <a href="https://www.twilio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Twilio-%23F22F46.svg?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio"/>
-  </a>
-</p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/jaidev-yadav-28349029a" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:jaiy9956@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/jaidev.xx">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaidevxr&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+### 🚀 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaidevxr&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaidevxr&theme=radical" alt="GitHub Profile Summary" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jaidevxr/jaidevxr/output/github-snake.svg dist/github-snake-dark.svg" alt="GitHub Snake Animation" />
-</p>
-
+<table>
+  <tr>
+    <td valign="center">
+      <br/>
+      <ul>
+        <li>🔭 I’m currently working on <b>AI-integrated Web Apps</b></li>
+        <li>🌱 I’m currently learning <b>Advanced Neural Networks & System Design</b></li>
+        <li>💡 Passionate about <b>solving real-world problems</b> with AI</li>
+        <li>⚡ Fun fact: I believe in creating value, not just writing code.</li>
+      </ul>
+    </td>
+    <td valign="center">
+     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📫 Let's Connect
+### 🛠️ Technical Arsenal
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jaidev-yadav-28349029a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:jaiy9956@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/jaidev.xx" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+<div align="center">
+
+| **Languages** | **Frontend** | **Backend & Cloud** | **AI & Tools** |
+|:---:|:---:|:---:|:---:|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) <br/> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br/> ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br/> ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) <br/> ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) <br/> ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) <br/> ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) <br/> ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) <br/> ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white) |
+
+</div>
 
 ---
 
-<p align="center"><em>“Code is a tool. Business is the engine. Vision is the fuel.”</em></p>
+### 📊 GitHub Analytics
+
+<div align="center">
+  
+  <a href="https://github.com/jaidevxr">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaidevxr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Stats" />
+  </a>
+  <a href="https://github.com/jaidevxr">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaidevxr&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Streak" />
+  </a>
+
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaidevxr&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://github.com/jaidevxr/jaidevxr/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+</p>
