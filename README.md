@@ -4,6 +4,12 @@
   <h1 align="center">Hi, I'm Jaidev 👋</h1>
   <h3 align="center">🎓 Computer Science Student @ BBDU</h3>
 
+  <p align="center">
+    <a href="https://jaidev-portfolio.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-jaidev--portfolio.vercel.app-2ea44f?style=for-the-badge&logo=vercel" alt="Portfolio"/>
+    </a>
+  </p>
+
   ---
 
   ## 🚀 About Me
@@ -76,13 +82,9 @@
   ## 📊 GitHub Stats
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jaidevxr&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jaidevxr&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaidevxr&layout=compact&theme=radical" alt="Top Languages" />
-  </p>
-  
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaidevxr&theme=radical" alt="GitHub Profile Summary" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaidevxr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </p>
 
   ---
