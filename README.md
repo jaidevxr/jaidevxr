@@ -90,11 +90,12 @@
   ## 📫 Let's Connect
 
 <div align="center"><a href="mailto:jaiy9956@gmail.com">
-    <p align="center">
-  <a href="mailto:jaiy9956@gmail.com">
+ 
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jaiy9956@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail">
   </a>
-</p>
+
+
 
   <a href="https://www.linkedin.com/in/jaidev-yadav-28349029a">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
