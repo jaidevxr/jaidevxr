@@ -90,8 +90,7 @@
   ---
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/jaidevxr/jaidevxr/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" width="100%" />
-  </p>
+    <img src="https://raw.githubusercontent.com/jaidevxr/jaidevxr/output/github-snake.svg dist/github-snake-dark.svg" alt="GitHub Snake Animation" /> </p>
 
   ---
 
