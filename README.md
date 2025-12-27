@@ -115,4 +115,5 @@
   <p align="center">
     <em>“Code is a tool. Business is the engine. Vision is the fuel.”</em>
   </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=100&section=footer" width="100%"/>
 </div>
