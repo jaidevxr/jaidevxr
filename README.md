@@ -23,10 +23,44 @@
 
 ## 🛠️ Tech Stack
 
+
+
 <div align="center">
-  <p>
-    <img src="https://skillicons.dev/icons?i=java,py,js,html,css,react,nextjs,tailwind,mysql,python,supabase,git,github,vscode,figma,aws,vercel,gcp&theme=dark" alt="Tech Stack"/>
-  </p>
+
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" />
+  </a>
+  
+  <br/>
+
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" />
+  </a>
+  <a href="https://vercel.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" />
+  </a>
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="Google Cloud" />
+  </a>
+
 </div>
 
   ---
