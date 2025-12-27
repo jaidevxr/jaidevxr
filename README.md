@@ -45,11 +45,6 @@
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=jaidevxr&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 
 </div>
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaidevxr&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
-</div>
 
   ---
 
