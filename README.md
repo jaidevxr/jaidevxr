@@ -90,9 +90,7 @@
   ## 📫 Let's Connect
 
 <div align="center">
-  <a href="mailto:jaiy9956@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
-  </a>
+  <a href="mailto:jaiy9956@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/jaidev-yadav-28349029a">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
