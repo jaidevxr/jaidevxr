@@ -1,4 +1,4 @@
-HEY!
+HEY! <img src="https://raw.githubusercontent.com/jaidevxr/jaidevxr/main/coding.gif" alt="Coding GIF" width="100"/>
 ```yaml
 name: Jaidev Yadav
 located_in: Lucknow, India
@@ -26,7 +26,7 @@ currently_learning: ["DSA", "TailwindCSS", "Machine Learning", "Cloud Deployment
 <br>
 </p>
 
-<img src="https://raw.githubusercontent.com/jaidevxr/jaidevxr/main/coding.gif" alt="Coding GIF" width="100"/>
+
  ---
   <p align="center">
     <img src="https://raw.githubusercontent.com/jaidevxr/jaidevxr/output/github-snake.svg dist/github-snake-dark.svg" alt="GitHub Snake Animation" /> </p>
