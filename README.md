@@ -27,6 +27,7 @@ fields_of_interests: ["Artificial Intelligence", "Disaster Tech & Data Analysis"
 technical_background: ["C", "C++", "Java", "Python", "JavaScript", "Web Dev", "React", "Next.js", "MongoDB", "SQL", "Supabase", "Vercel", "Google Cloud"]
 currently_learning: ["DSA", "TailwindCSS", "Machine Learning", "Cloud Deployment"]
 ```
+<div align="center">
 <img src="https://raw.githubusercontent.com/jaidevxr/jaidevxr/main/coding.gif" alt="Coding GIF" width="400"/>
  ---
   <p align="center">
