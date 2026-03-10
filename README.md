@@ -1,4 +1,3 @@
-![](https://visitor-badge.glitch.me/badge?page_id=jaidevxr.jaidevxr)
 ```yaml
 name: Jaidev Yadav
 located_in: Lucknow, India
