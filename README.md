@@ -4,14 +4,13 @@ name: Jaidev Yadav
 located_in: Lucknow, India
 job: 3rd Year B.Tech Student
 education: ["B.Tech Computer Science & Engineering", "BBD University"]
-recent_projects: ["AI-powered disaster management platform for India with real-time monitoring", 
-                  "Exam preparation companion for students - ExamPrep", 
-                  "WhatsApp Wrapped-Spotify Wrapped-style insights from your WhatsApp conversations"]
-fields_of_interests: ["Artificial Intelligence", "Disaster Tech & Data Analysis", 
-                      "Machine Learning"]
-technical_background: ["C", "C++", "Java", "Python", "JavaScript", "Web Dev", 
-                       "React", "Next.js", "MongoDB", "SQL", "Supabase", 
-                       "Vercel", "Google Cloud"]
+recent_projects: 
+  - "AI-powered disaster management platform for India with real-time monitoring"
+  - "Exam preparation companion for students - ExamPrep"
+  - "WhatsApp Wrapped - Spotify Wrapped-style insights from your WhatsApp conversations"
+fields_of_interests: ["Artificial Intelligence", "Disaster Tech & Data Analysis", "Machine Learning"]
+technical_background: ["C", "C++", "Java", "Python", "JavaScript", "Web Dev", "React", "Next.js", "MongoDB",
+                       "SQL", "Supabase", "Vercel", "Google Cloud"]
 currently_learning: ["DSA", "TailwindCSS", "Machine Learning", "Cloud Deployment"]
 ```
 <p align="center">
