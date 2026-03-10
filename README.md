@@ -1,4 +1,4 @@
-HEY! <img src="https://raw.githubusercontent.com/jaidevxr/jaidevxr/main/coding.gif" alt="Coding GIF" width="10"/>
+HEY! <img src="https://raw.githubusercontent.com/jaidevxr/jaidevxr/main/coding.gif" alt="Coding GIF" width="50"/>
 ```yaml
 name: Jaidev Yadav
 located_in: Lucknow, India
