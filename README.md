@@ -27,10 +27,10 @@ currently_learning: ["DSA", "TailwindCSS", "Machine Learning", "Cloud Deployment
 </p>
 
 
- ---
+
   <p align="center">
     <img src="https://raw.githubusercontent.com/jaidevxr/jaidevxr/output/github-snake.svg dist/github-snake-dark.svg" alt="GitHub Snake Animation" /> </p>
-  ---
+
   <p align="center">
     <em>“A guy bridging creativity and tech.”</em>
   </p>
