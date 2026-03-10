@@ -12,8 +12,6 @@
 <br>
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaidevxr&theme=github-dark-dimmed&custom_title=Jaidev%20Yadav%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ```yaml
 name: Jaidev Yadav
 located_in: Lucknow, India
@@ -34,6 +32,9 @@ currently_learning: ["DSA", "TailwindCSS", "Machine Learning", "Cloud Deployment
   <p align="center">
     <img src="https://raw.githubusercontent.com/jaidevxr/jaidevxr/output/github-snake.svg dist/github-snake-dark.svg" alt="GitHub Snake Animation" /> </p>
   ---
+  <p align="center">
+    <em>“A guy bridging creativity and tech.”</em>
+  </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
