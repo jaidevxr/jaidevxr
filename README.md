@@ -2,7 +2,7 @@ HEY!
 ```yaml
 name: Jaidev Yadav
 located_in: Lucknow, India
-job: 3rd Year B.Tech Student
+whoami: 3rd Year B.Tech Student
 education: ["B.Tech Computer Science & Engineering", "BBD University"]
 recent_projects: 
   - "AI-powered disaster management platform for India with real-time monitoring"
