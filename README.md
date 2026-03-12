@@ -9,7 +9,7 @@ recent_projects:
   - "Exam preparation companion for students - ExamPrep"
   - "WhatsApp Wrapped - Spotify Wrapped-style insights from your WhatsApp conversations"
 fields_of_interests: ["Artificial Intelligence", "Disaster Tech & Data Analysis", "Machine Learning"]
-technical_background: ["C", "C++", "Java", "Python", "JavaScript", "Web Dev", "React", "Next.js", "MongoDB",
+technical_background: ["C", "C++", "Java", "Python", "Web Dev", "React", "Next.js", "MongoDB",
                        "SQL", "Supabase", "Vercel", "Google Cloud"]
 currently_learning: ["DSA", "TailwindCSS", "Machine Learning", "Cloud Deployment"]
 ```
