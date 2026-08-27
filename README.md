@@ -30,11 +30,12 @@ currently_learning: ["DSA", "TailwindCSS", "Machine Learning", "Cloud Deployment
   <img alt="LeetCode" height="40px" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <img src="https://raw.githubusercontent.com/jaidevxr/jaidevxr/main/coding.gif" alt="Coding GIF" width="100"/>
 
 <br>
 </p>
-
 
   <p align="center">
     <img src="https://raw.githubusercontent.com/jaidevxr/jaidevxr/output/github-snake.svg dist/github-snake-dark.svg" alt="GitHub Snake Animation" /> </p>
