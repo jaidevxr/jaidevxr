@@ -19,7 +19,7 @@ currently_learning: ["DSA", "TailwindCSS", "Machine Learning", "Cloud Deployment
   <img alt="LinkedIn" height="40px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
 </a>
 &nbsp;&nbsp;
-<a href="https://jaidev-portfolio.vercel.app/">
+<a href="https://jaidevyadav.me">
   <img alt="Portfolio" height="40px" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
   <img src="https://raw.githubusercontent.com/jaidevxr/jaidevxr/main/coding.gif" alt="Coding GIF" width="100"/>
