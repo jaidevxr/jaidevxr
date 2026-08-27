@@ -13,7 +13,7 @@ technical_background: ["C", "C++", "Java", "Python", "Web Dev", "React", "Next.j
                        "SQL", "Supabase", "Vercel", "Google Cloud"]
 currently_learning: ["DSA", "TailwindCSS", "Machine Learning", "Cloud Deployment"]
 ```
-<p align="center">
+<p align="center" style="white-space: nowrap;">
 <br/>
 
 <a href="https://www.linkedin.com/in/jaidevyadav">
@@ -29,7 +29,6 @@ currently_learning: ["DSA", "TailwindCSS", "Machine Learning", "Cloud Deployment
 <a href="https://leetcode.com/u/jaidevxr/">
   <img alt="LeetCode" height="40px" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
-
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="https://raw.githubusercontent.com/jaidevxr/jaidevxr/main/coding.gif" alt="Coding GIF" width="100"/>
